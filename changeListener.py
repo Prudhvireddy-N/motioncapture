@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Mar  1 09:47:19 2018
-
-@author: GHR6KOR
-"""
 import shutil
 import time
 from watchdog.observers import Observer
